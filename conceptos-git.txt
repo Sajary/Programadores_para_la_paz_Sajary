@@ -1,0 +1,17 @@
+RESPUESTA:
+
+Repositorio:
+Es el espacio donde se almacenan todos los archivos y el historial de cambios de un proyecto.
+Permite organizar el trabajo y mantener diferentes versiones del código o documentos.
+Puede estar guardado de manera local en el computador o en plataformas en línea como GitHub.
+
+Commit:
+Un commit es un registro o “captura” de los cambios realizados en un proyecto.
+Sirve para guardar avances y dejar una descripción de lo que se modificó.
+Gracias a los commits, es posible volver a versiones anteriores si ocurre algún error.
+
+Push:
+El comando push se utiliza para enviar los cambios guardados en el repositorio local hacia un repositorio remoto.
+Esto permite compartir el trabajo con otras personas y mantener el proyecto actualizado en línea.
+Es muy usado en plataformas colaborativas como GitHub o GitLab.
+

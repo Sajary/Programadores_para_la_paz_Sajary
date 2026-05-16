@@ -1,0 +1,4 @@
+RESPUESTA:
+
+Mantener un registro de cambios con herramientas como Git es importante porque ayuda a llevar un control ordenado de todo lo que se hace en un proyecto.
+Así, si ocurre un error o algo deja de funcionar, se puede volver fácilmente a una versión anterior sin perder todo el trabajo realizado.
